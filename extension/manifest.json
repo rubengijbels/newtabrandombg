@@ -1,0 +1,10 @@
+{
+  "name": "New Tab Random Background",
+  "version": "1.0",
+  "description": "Set the background on a new tab and nothing else!",
+  "permissions": [],
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "manifest_version": 2
+}
